@@ -10,7 +10,7 @@ Explore US Bikeshare Data
 Describe what your project is about and what it does
 
 ### Files used
-You will need the three city dataset files too:
+You will need the three city dataset files to:
 
 - chicago.csv
 - new_york_city.csv
