@@ -23,6 +23,5 @@ You will need the three city dataset files to:
 - washington.csv
 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
